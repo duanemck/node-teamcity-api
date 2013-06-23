@@ -1,0 +1,8 @@
+# IntelliJ IDEA
+.idea
+*.iml
+*.ipr
+
+# Node Installed Libraries
+node_modules
+*.tgz
